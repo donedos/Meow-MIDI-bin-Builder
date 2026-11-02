@@ -28,7 +28,7 @@ MIDI text metadata when present; missing metadata is left blank. Song codes can
 also be text and are preserved for display. Keep both files together when
 importing them into MeowsiCat/SongHub; the app assigns internal numeric IDs
 where needed for playback controls. The `.bin` extension is only a naming
-convention: this ZIP-based archive is separate from `shubidx`/`shubblob`.
+convention.
 
 For missing artists, open a song and choose **Search MusicBrainz**. The app
 sends the song title to MusicBrainz, then asks you to select a matching
