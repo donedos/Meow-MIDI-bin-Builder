@@ -5,7 +5,7 @@ into a ZIP archive named with the `.bin` extension. It uses Python's standard
 library only; run it with:
 
 ```bash
-python3 tools/midi_bin_builder.py
+python3 midi_bin_builder.py
 ```
 
 Choose a MIDI folder and scan it; the progress bar indicates activity and the
